@@ -39,8 +39,6 @@ namespace WpfPractice.MainPages.Warehouse
         }
 
         /*
-                bt1.Visibility = Visibility.Hidden;
-                bt2.Visibility = Visibility.Hidden;
                 bt3.Visibility = Visibility.Hidden;
             }
         }*/
