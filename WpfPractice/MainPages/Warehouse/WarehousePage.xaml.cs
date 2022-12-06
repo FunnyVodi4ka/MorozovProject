@@ -26,7 +26,6 @@ namespace WpfPractice.MainPages.Warehouse
             InitializeComponent();
             try
             {
-                //CheckAdminFunctions();
                 SetSortByProducts();
                 SetFilterByProducts();
 
