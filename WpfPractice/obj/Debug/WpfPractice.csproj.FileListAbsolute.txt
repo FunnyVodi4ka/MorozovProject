@@ -1,0 +1,114 @@
+N:\WpfPractice\WpfPractice\bin\Debug\WpfPractice.exe.config
+N:\WpfPractice\WpfPractice\bin\Debug\WpfPractice.exe
+N:\WpfPractice\WpfPractice\bin\Debug\WpfPractice.pdb
+N:\WpfPractice\WpfPractice\bin\Debug\EntityFramework.dll
+N:\WpfPractice\WpfPractice\bin\Debug\EntityFramework.SqlServer.dll
+N:\WpfPractice\WpfPractice\bin\Debug\EntityFramework.xml
+N:\WpfPractice\WpfPractice\bin\Debug\EntityFramework.SqlServer.xml
+N:\WpfPractice\WpfPractice\bin\Debug\ru\EntityFramework.resources.dll
+N:\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csproj.AssemblyReference.cache
+N:\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csproj.SuggestedBindingRedirects.cache
+N:\WpfPractice\WpfPractice\obj\Debug\App.g.cs
+N:\WpfPractice\WpfPractice\obj\Debug\WpfPractice_Content.g.cs
+N:\WpfPractice\WpfPractice\obj\Debug\WpfPractice_MarkupCompile.cache
+N:\WpfPractice\WpfPractice\obj\Debug\WpfPractice_MarkupCompile.lref
+N:\WpfPractice\WpfPractice\obj\Debug\App.baml
+N:\WpfPractice\WpfPractice\obj\Debug\WpfPractice.g.resources
+N:\WpfPractice\WpfPractice\obj\Debug\WpfPractice.Properties.Resources.resources
+N:\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csproj.GenerateResource.cache
+N:\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csproj.CoreCompileInputs.cache
+N:\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csproj.CopyComplete
+N:\WpfPractice\WpfPractice\obj\Debug\WpfPractice.exe
+N:\WpfPractice\WpfPractice\obj\Debug\WpfPractice.pdb
+N:\WpfPractice\WpfPractice\obj\Debug\MainWindows\Auth.g.cs
+N:\WpfPractice\WpfPractice\obj\Debug\MainWindows\Orders.g.cs
+N:\WpfPractice\WpfPractice\obj\Debug\MainPages\OrderPage.g.cs
+N:\WpfPractice\WpfPractice\obj\Debug\MainPages\OrderPage.baml
+N:\WpfPractice\WpfPractice\obj\Debug\MainWindows\Auth.baml
+N:\WpfPractice\WpfPractice\obj\Debug\MainWindows\Orders.baml
+N:\WpfPractice\WpfPractice\obj\Debug\MainPages\AddEditOrder.g.cs
+N:\WpfPractice\WpfPractice\obj\Debug\MainPages\AdminAddPage.g.cs
+N:\WpfPractice\WpfPractice\obj\Debug\MainPages\AddEditOrder.baml
+N:\WpfPractice\WpfPractice\obj\Debug\MainPages\AdminAddPage.baml
+N:\WpfPractice\WpfPractice\obj\Debug\MainPages\AdminShowUsersPage.g.cs
+N:\WpfPractice\WpfPractice\obj\Debug\MainPages\AdminShowUsersPage.baml
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\bin\Debug\WpfPractice.exe.config
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\bin\Debug\WpfPractice.exe
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\bin\Debug\WpfPractice.pdb
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\bin\Debug\EntityFramework.dll
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\bin\Debug\EntityFramework.xml
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csproj.AssemblyReference.cache
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\MainPages\AddEditOrder.g.cs
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\MainPages\AdminAddPage.g.cs
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\MainPages\AdminShowUsersPage.g.cs
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\MainPages\OrderPage.g.cs
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\MainWindows\Auth.g.cs
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\MainWindows\Orders.g.cs
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\App.g.cs
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\WpfPractice_Content.g.cs
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\WpfPractice_MarkupCompile.cache
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\WpfPractice_MarkupCompile.lref
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\App.baml
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\MainPages\AddEditOrder.baml
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\MainPages\AdminAddPage.baml
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\MainPages\AdminShowUsersPage.baml
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\MainPages\OrderPage.baml
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\MainWindows\Auth.baml
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\MainWindows\Orders.baml
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\WpfPractice.g.resources
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\WpfPractice.Properties.Resources.resources
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csproj.GenerateResource.cache
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csproj.CoreCompileInputs.cache
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csproj.CopyComplete
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\WpfPractice.exe
+C:\Users\AlexZ\Downloads\WpfPractice\WpfPractice\obj\Debug\WpfPractice.pdb
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csproj.AssemblyReference.cache
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\AddEditOrder.g.cs
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\AdminAddPage.g.cs
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\AdminShowUsersPage.g.cs
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\OrderPage.g.cs
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainWindows\Auth.g.cs
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainWindows\Orders.g.cs
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\App.g.cs
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\WpfPractice_Content.g.cs
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\WpfPractice_MarkupCompile.cache
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\WpfPractice_MarkupCompile.lref
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\WpfPractice.exe
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\WpfPractice.pdb
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\bin\Debug\WpfPractice.exe.config
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\bin\Debug\WpfPractice.exe
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\bin\Debug\WpfPractice.pdb
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\bin\Debug\EntityFramework.dll
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\bin\Debug\EntityFramework.xml
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\App.baml
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\AddEditOrder.baml
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\AdminAddPage.baml
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\AdminShowUsersPage.baml
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\OrderPage.baml
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainWindows\Auth.baml
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainWindows\Orders.baml
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\WpfPractice.g.resources
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\WpfPractice.Properties.Resources.resources
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csproj.GenerateResource.cache
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csproj.CoreCompileInputs.cache
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\WpfPractice.csproj.CopyComplete
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\Warehouse\WarehousePage.g.cs
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\Warehouse\WarehousePage.baml
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\Warehouse\AddEditProduct.g.cs
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\Warehouse\AddEditProduct.baml
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\Warehouse\CategoriesPage.g.cs
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\Warehouse\ColorsPage.g.cs
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\Warehouse\ManufacturersPage.g.cs
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\Warehouse\CategoriesPage.baml
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\Warehouse\ColorsPage.baml
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\Warehouse\ManufacturersPage.baml
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\Warehouse\SalesPage.g.cs
+C:\Users\AlexZ\OneDrive\Рабочий стол\WpfPractice\WpfPractice\obj\Debug\MainPages\Warehouse\SalesPage.baml

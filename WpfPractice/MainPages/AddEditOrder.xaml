@@ -1,0 +1,103 @@
+﻿<Page x:Class="WpfPractice.MainPages.AddEditOrder"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfPractice.MainPages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddEditOrder">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="1.5*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="1.5*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="Фамилия клиента: " 
+                   Style="{StaticResource TextBlockMain}" VerticalAlignment="Center"/>
+        <TextBox Text="{Binding Surname}" Grid.Row="0" Grid.Column="1" 
+                 Name="ClientSurname" 
+                 Style="{StaticResource TextBox}"/>
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="Имя клиента: " 
+                   Style="{StaticResource TextBlockMain}" VerticalAlignment="Center"/>
+        <TextBox Text="{Binding Client.Name}" Grid.Row="1" Grid.Column="1" 
+                 Name="ClientName" 
+                 Style="{StaticResource TextBox}"/>
+
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="Отчество клиента: " 
+                   Style="{StaticResource TextBlockMain}" VerticalAlignment="Center"/>
+        <TextBox Text="{Binding Client.Secondname}" Grid.Row="2" Grid.Column="1" 
+                 Name="ClientSecondname" 
+                 Style="{StaticResource TextBox}"/>
+
+
+        <TextBlock Grid.Row="3" Grid.Column="0" Text="Тип техники: " 
+                   Style="{StaticResource TextBlockMain}" VerticalAlignment="Center"/>
+        <ComboBox Grid.Row="3" Grid.Column="1"  Name="TechFilter" 
+                  Style="{StaticResource ComboBox}" Margin="5,15"/>
+
+        <TextBlock Grid.Row="4" Grid.Column="0" Text="Оплата: " 
+                   Style="{StaticResource TextBlockMain}" VerticalAlignment="Center"/>
+        <CheckBox Grid.Column="1" x:Name="checkB" Content="Оплачен" HorizontalAlignment="Left"  Grid.Row="4" 
+                  FontFamily="Ebrima" FontSize="16" Foreground="White" VerticalAlignment="Center"/>
+
+
+        <TextBlock Grid.Row="0" Grid.Column="2" Text="Дата начала: " 
+                   Style="{StaticResource TextBlockMain}" VerticalAlignment="Center" />
+        <DatePicker x:Name="datePickerOn" BorderThickness="0" FontFamily="Ebrima" Grid.Column="4" Grid.Row="0"
+                   Margin="5,15" SelectedDate="{Binding DateOfStart}" Background="#FFFFAB4F" FontWeight="Normal" FontStyle="Italic"
+                    />
+
+        <TextBlock Grid.Row="1" Grid.Column="2" Text="Дата окончания: " 
+                   Style="{StaticResource TextBlockMain}" VerticalAlignment="Center" />
+        <DatePicker x:Name="datePickerOff" BorderThickness="0" FontFamily="Ebrima" Grid.Column="4" Grid.Row="1"
+                   Margin="5,15" SelectedDate="{Binding DateOfEnd}" Background="#FFFFAB4F" FontWeight="Normal" FontStyle="Italic"
+                    />
+
+        <TextBlock Grid.Row="2" Grid.Column="2" Text="Статус: " 
+                   Style="{StaticResource TextBlockMain}" VerticalAlignment="Center"/>
+        <ComboBox Grid.Row="2" Grid.Column="3"  Name="StatusCb" 
+                  Style="{StaticResource ComboBox}" Margin="5,15"/>
+
+        <TextBlock Grid.Row="3" Grid.Column="2" Text="Описание: " 
+                   Style="{StaticResource TextBlockMain}" VerticalAlignment="Center"/>
+        <TextBox Text="{Binding Description}" Grid.Row="3" Grid.Column="3" 
+                 Name="DescriptionTb" 
+                 Style="{StaticResource TextBox}"/>
+
+        <TextBlock Grid.Row="4" Grid.Column="2" Text="Номер телефона: " 
+                   Style="{StaticResource TextBlockMain}" VerticalAlignment="Center"/>
+        <TextBox Text="{Binding Client.Phone}" Grid.Row="4" Grid.Column="3" 
+                 Name="Phone" 
+                 Style="{StaticResource TextBox}"/>
+
+        <TextBlock Grid.Row="5" Grid.Column="0" Text="Название техники: " 
+                   Style="{StaticResource TextBlockMain}" VerticalAlignment="Center"/>
+        <TextBox Text="{Binding Technic}" Grid.Row="5" Grid.Column="1" 
+                 Name="TechnicTb" 
+                 Style="{StaticResource TextBox}"/>
+
+        <Button Grid.Row="6" Name="AddData" Click="AddData_Click" Content="Сохранить" 
+                Style="{StaticResource Button}" Background="#FFFFAB4F" Margin="10,14,190,14" Grid.ColumnSpan="2"/>
+        <Button Grid.Column="1" Grid.Row="6" Name="DeleteData" Click="DeleteData_Click" Content="Удалить" 
+                Style="{StaticResource Button}" Background="#FF2799FF" Margin="100,14,0,14"/>
+        <Button Grid.Column="3" Grid.Row="6" Grid.ColumnSpan="2" Name="Back" Click="Back_Click" Content="Назад" 
+                Style="{StaticResource Button}" Background="#FFFFAB4F" Width="110" HorizontalAlignment="Right"/>
+
+    </Grid>
+</Page>

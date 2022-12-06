@@ -1,0 +1,99 @@
+﻿<Page x:Class="WpfPractice.MainPages.Warehouse.SalesPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfPractice.MainPages.Warehouse"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="SalesPage" Loaded="Page_Loaded">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition/>
+            <RowDefinition Height="50" Name="AdminRow"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="450"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="200"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="40" />
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Column="0" Grid.Row="0"  Text="Проданный товар" Name="TbFinder1"
+                       Style="{StaticResource TextBlockRegist}" FontSize="15" Margin="0"/>
+            <TextBlock x:Name="TextAddSale" Grid.Column="1" Grid.Row="0" Text="Количество"
+                       Style="{StaticResource TextBlockRegist}" FontSize="15" Margin="0"/>
+
+            <ComboBox Grid.Column="0" Grid.Row="1" Name="ProductList" Style="{StaticResource ComboBox}"/>
+            <TextBox Grid.Column="1" Grid.Row="1"  x:Name="TextBoxQuantity" Style="{StaticResource TextBox}" PreviewTextInput="TextBoxQuantity_PreviewTextInput"/>
+            <Button Grid.Column="2" Grid.Row="1" Content="Оформить продажу" Width="auto" Style="{StaticResource Button}" Background="#FFFFAB4F"
+                        x:Name="ButtonAddSale" Click="ButtonAddSale_Click"/>
+
+        </Grid>
+
+        <ListView Grid.Row="1" Margin="10" Name="ListViewSales" Background="#33FFFFFF" >
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="HorizontalAlignment" Value="Stretch"/>
+                    <Setter Property="Height" Value="90"/>
+                </Style>
+            </ListView.ItemContainerStyle>
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="580"/>
+                            <ColumnDefinition Width="200"/>
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel Grid.Column="0" Orientation="Vertical" Margin="10,0,0,0" Width="NaN" HorizontalAlignment="Left">
+                            <TextBlock Style="{StaticResource TextBlockMain}">
+                                <Run Text="Проданный товар:"/>
+                            </TextBlock>
+                            <TextBlock Style="{StaticResource TextBlockMain}">
+                                    <Run Text="{Binding Products.Name}"/>
+                            </TextBlock>
+                            <TextBlock Style="{StaticResource TextBlockMain}">
+                                <Run Text="Оформил: "/>
+                                <Run Text="{Binding User.Surname }"/>
+                                <Run Text="{Binding User.Name }"/>
+                                <Run Text="{Binding User.Secondname}"/>
+                            </TextBlock>
+                        </StackPanel>
+                        <TextBlock Grid.Column="1" TextWrapping="Wrap" HorizontalAlignment="Left" Style="{StaticResource TextBlockMain}">
+                            <TextBlock Style="{StaticResource TextBlockMain}">
+                                <Run Text="Продано: "/>
+                                <Run Text="{Binding Quantity}"/>
+                                <Run Text="шт."/>
+                            </TextBlock>
+                            <TextBlock Style="{StaticResource TextBlockMain}">
+                                <Run Text="Дата продажи: "/>
+                            </TextBlock>
+                            <TextBlock Style="{StaticResource TextBlockMain}">
+                                <Run Text="{Binding DateTime}"/>
+                            </TextBlock>
+                        </TextBlock>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Grid Grid.Row="2" Height="50" VerticalAlignment="Top">
+            <TextBlock Name="TbFinder" Style="{StaticResource TextBlockRegist}" Foreground="#FFFFAB4F"
+                       TextWrapping="Wrap" VerticalAlignment="Top" HorizontalAlignment="Left" />
+            <Button Content="Удалить" Width="100" Style="{StaticResource Button}" Background="#FF2799FF"
+                        Name="ButtonDelete" Margin="440,10,10,10" Click="ButtonDelete_Click"/>
+            <Button Content="Назад" Width="100" Style="{StaticResource Button}" Background="#FFFFAB4F"
+                        Name="ButtonBack" Margin="680,10,10,10" Click="ButtonBack_Click"/>
+        </Grid>
+    </Grid>
+</Page>
