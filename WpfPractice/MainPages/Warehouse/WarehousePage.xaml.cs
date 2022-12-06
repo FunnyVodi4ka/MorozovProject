@@ -38,8 +38,7 @@ namespace WpfPractice.MainPages.Warehouse
             }
         }
 
-        /*private void CheckAdminFunctions()
-        {
+        /*
             if (SelectedUser.user == null || SelectedUser.user.IDRole != 1)
             {
                 bt1.Visibility = Visibility.Hidden;
