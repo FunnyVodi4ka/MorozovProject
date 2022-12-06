@@ -38,11 +38,6 @@ namespace WpfPractice.MainPages.Warehouse
             }
         }
 
-        /*
-                bt3.Visibility = Visibility.Hidden;
-            }
-        }*/
-
         private void SetSortByProducts()
         {
             ProductSort.Items.Add("Без сортировки");
