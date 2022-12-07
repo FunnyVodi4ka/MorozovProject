@@ -116,6 +116,7 @@ namespace WpfPractice.MainPages
                 && !string.IsNullOrEmpty(Phone.Text))
             {
                 MessageBox.Show("Номер телефона начинается с 7 и больше 11 символов", "Уведомление", MessageBoxButton.OK, MessageBoxImage.Information);
+                return;
             }
 
             try
