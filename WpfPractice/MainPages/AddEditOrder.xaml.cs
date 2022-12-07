@@ -41,9 +41,7 @@ namespace WpfPractice.MainPages
                     FindFilterStatusId();
 
                     if(order1.IsPayed == "Оплачен")
-                    {
                         checkB.IsChecked = true;
-                    }
                     //Auth
                 }
                 else
