@@ -39,6 +39,11 @@ namespace WpfPractice.MainPages
 
                     FindFilterTypeId();
                     FindFilterStatusId();
+
+                    if(order1.IsPayed == "Оплачен")
+                    {
+                        checkB.IsChecked = true;
+                    }
                 }
                 else
                 {

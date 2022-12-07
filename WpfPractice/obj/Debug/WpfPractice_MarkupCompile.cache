@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\ПП_4курс_1\WpfPractice\WpfPractice\obj\Debug\
+C:\Users\ВВК\source\repos\FunnyVodi4ka\MorozovProject\WpfPractice\obj\Debug\
 WpfPractice
 none
 false
 DEBUG;TRACE
-D:\ПП_4курс_1\WpfPractice\WpfPractice\App.xaml
+C:\Users\ВВК\source\repos\FunnyVodi4ka\MorozovProject\WpfPractice\App.xaml
 12-2046291841
 2390997639
 3771789373
-18562774113
+181290558711
 MainPages\AddEditOrder.xaml;MainPages\AdminAddPage.xaml;MainPages\AdminShowUsersPage.xaml;MainPages\OrderPage.xaml;MainPages\Warehouse\AddEditProduct.xaml;MainPages\Warehouse\CategoriesPage.xaml;MainPages\Warehouse\ColorsPage.xaml;MainPages\Warehouse\ManufacturersPage.xaml;MainPages\Warehouse\SalesPage.xaml;MainPages\Warehouse\WarehousePage.xaml;MainWindows\Auth.xaml;MainWindows\Orders.xaml;
 
-False
+True
 
