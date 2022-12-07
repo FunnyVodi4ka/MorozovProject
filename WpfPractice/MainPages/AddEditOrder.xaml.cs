@@ -44,6 +44,7 @@ namespace WpfPractice.MainPages
                     {
                         checkB.IsChecked = true;
                     }
+                    //Auth
                 }
                 else
                 {
